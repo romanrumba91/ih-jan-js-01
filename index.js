@@ -67,3 +67,5 @@ const comida = {
 
 }
 
+//Practica
+console.log("Hola a todos")
